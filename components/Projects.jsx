@@ -28,7 +28,7 @@ const Projects = () => {
           <ProjectItem
             title="Battleboats CLI"
             backgroundImg={battleboats}
-            projectUrl=""
+            projectUrl="https://github.com/cshenlua/battleboats-cli"
           />
           <ProjectItem
             title="Hole in the Ground"
